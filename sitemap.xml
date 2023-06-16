@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
-    
-    <lastmod>2023-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/music/index.html</loc>
-    
-    <lastmod>2023-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/posts/16107.html</loc>
     
     <lastmod>2023-06-16</lastmod>
@@ -29,7 +11,34 @@
   </url>
   
   <url>
+    <loc>http://example.com/posts/5f05e6eb.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/posts/82f89cd3.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/posts/fb1aeb1e.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manifest.json</loc>
     
     <lastmod>2023-06-16</lastmod>
     
@@ -55,6 +64,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
@@ -68,6 +86,13 @@
   
   <url>
     <loc>http://example.com/categories/%E5%BD%B1%E8%AF%84/</loc>
+    <lastmod>2023-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%97%A5%E5%AD%90/</loc>
     <lastmod>2023-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
